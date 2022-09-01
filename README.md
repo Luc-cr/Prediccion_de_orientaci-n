@@ -7,4 +7,6 @@
 ## __¿Cómo puedo participar?__
 #### Lo que cualquiera puede hacer es rellenar el [formulario](https://forms.gle/AcipigFFXYPs32cs5). También si ves algo en el código que no te gusta o que se podría hacer mejor, podes una pull request para cambiar eso.
 
+El nombre de la IA es Epsilon.
+
 Agradecimiento a [@HolaMundo42](https://github.com/HolaMundo42) y [@SantiR](https://github.com/Santiresnik) por ayudarme a hacer y difundir el formulario.
